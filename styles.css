@@ -1,6 +1,9 @@
 /*  your css code here. If applicable */
+#head{
+	text-align:center;
+}
 .middle{
-	width:100%;
+	width:60%;
 	margin:auto;
 }
 .center{
@@ -12,17 +15,10 @@
 table{
 	border:1px solid black;
 	border-spacing:1px;
-	padding:1px;
 }
 td{
 	border:1px solid black;
-	padding:10px;
-}
-.img{
-	display:block;
-	margin-left:auto;
-	margin-right:auto;
-	width:50%;
+	padding:6px;
 }
 .green{
 	background-color:green;
